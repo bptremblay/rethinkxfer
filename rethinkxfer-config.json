@@ -1,0 +1,15 @@
+{
+  "DUMP_TO_FILES": false,
+  "rethinkdbCreate": {
+    "host": "localhost",
+    "port": 28015,
+    "db": "perfhub_ben_test",
+    "authKey": ""
+  },
+  "rethinkdbCopy": {
+    "host": "localhost",
+    "port": 8090,
+    "db": "QA_DA_TEST",
+    "authKey": ""
+  }
+}
