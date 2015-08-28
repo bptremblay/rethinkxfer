@@ -3,13 +3,13 @@
   "rethinkdbCreate": {
     "host": "localhost",
     "port": 28015,
-    "db": "perfhub_ben_test",
+    "db": "perfhub_ben_test_test",
     "authKey": ""
   },
   "rethinkdbCopy": {
-    "host": "localhost",
-    "port": 8090,
-    "db": "QA_DA_TEST",
+   "host": "localhost",
+    "port": 28015,
+    "db": "perfhub_ben_test",
     "authKey": ""
   }
 }
