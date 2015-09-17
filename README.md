@@ -166,3 +166,8 @@ createJSONFromTables: Created "leaderboard.json".
 createJSONFromTables: Created "associate.json".
 
 ALL DONE
+
+Next Steps
+==========
+
+What about really big tables? We will be chunking them into smaller JSON objects/files so no special memory configurations are necessary.
